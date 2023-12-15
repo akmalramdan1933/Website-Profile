@@ -2,10 +2,19 @@
     {
         "name": "Junior Web Developer",
         "by": "digitalent",
+        "image": "./certification/Sertifikat VSGA_JWD1.png",
+        "category":"programming",
+        "links": {
+            "credentials": ""
+        }
+    },
+    {
+        "name": "Junior Web Developer",
+        "by": "digitalent",
         "image": "./certification/Sertifikasi VSGA.png",
         "category":"programming",
         "links": {
-            "credentials": "https://skillacademy.com/sertifikat/9Y4A6M5YDSZ72E"
+            "credentials": ""
         }
     }
 ]
