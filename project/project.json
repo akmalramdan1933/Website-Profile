@@ -29,5 +29,15 @@
             "demo": "https://akmalramdan1933.github.io/Website-NewsDigital/",
             "code": "https://github.com/akmalramdan1933/Website-NewsDigital"
         }
+    },
+    {
+        "title": "Website Profile",
+        "tech": "HTML&CSS, JavaScript ",
+        "image": "./assets/img/project/bgpp.png",
+        "desc":"This is my for website profile.",
+        "links": {
+            "demo": "https://akmalramdan1933.github.io/Website-NewsDigital/",
+            "code": "https://github.com/akmalramdan1933/Website-NewsDigital"
+        }
     }
 ]
