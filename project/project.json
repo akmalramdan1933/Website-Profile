@@ -1,0 +1,33 @@
+[
+    {
+        "title": "UI/UX Design",
+        "tech": "Figma",
+        "image": "./assets/img/project/absensi2.png",
+        "desc":"Hasil Project ",
+        "links": {
+            "demo": "https://drive.google.com/file/d/1ZhaykxgmBZK5PkBC7h_espuW6eK8bkkE/view?usp=sharing",
+            "code": ""
+        }
+    },
+
+    {
+        "title": "Website Profile ",
+        "tech": "HTML&CSS, JavaScript",
+        "image": "./assets/img/project/bgsister.png",
+        "desc":"This is my for course assignments .",
+        "links": {
+            "demo": "https://akmalramdan1933.github.io/Website-Sistem-Terdistribusi/",
+            "code": "https://github.com/akmalramdan1933/Website-Sistem-Terdistribusi"
+        }
+    },
+    {
+        "title": "Website NewsDigital",
+        "tech": "HTML&CSS, JavaScript",
+        "image": "./assets/img/project/bgnewsdigital.png",
+        "desc":"This is my for course assignments.",
+        "links": {
+            "demo": "https://akmalramdan1933.github.io/Website-NewsDigital/",
+            "code": "https://github.com/akmalramdan1933/Website-NewsDigital"
+        }
+    }
+]
