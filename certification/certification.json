@@ -9,7 +9,9 @@
         }
     },
     {
-        "image": "./certification/Sertifikasi VSGA.png",
+        "name": "Junior Web Developer",
+        "by": "digitalent",
+        "image": "./certification/bgsertif.png",
         "category":"programming",
         "links": {
         }
