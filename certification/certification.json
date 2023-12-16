@@ -5,16 +5,7 @@
         "image": "./certification/Sertifikat VSGA_JWD1.png",
         "category":"programming",
         "links": {
-            "credentials": ""
-        }
-    },
-    {
-        "name": "Junior Web Developer",
-        "by": "digitalent",
-        "image": "./certification/bgsertif.png",
-        "category":"programming",
-        "links": {
-            "credentials": ""
+            "credentials": "https://drive.google.com/drive/folders/1zmHIRFc4uSUjiRR5a6WUDp6e_0UbkudM?usp=sharing"
         }
     }
 ]
